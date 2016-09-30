@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/mmhansen/img-search/issues"
   },
-  "homepage": "https://github.com/mmhansen/img-search#readme"
+  "homepage": "https://github.com/mmhansen/img-search#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "moment": "^2.15.1",
+    "mongodb": "^2.2.10",
+    "request": "^2.75.0"
+  }
 }
